@@ -1,0 +1,10 @@
+C:\Users\DEll\Downloads\Desktop\ehtiram\B161210558\B161210558\bin\Debug\B161210558.exe.config
+C:\Users\DEll\Downloads\Desktop\ehtiram\B161210558\B161210558\bin\Debug\B161210558.exe
+C:\Users\DEll\Downloads\Desktop\ehtiram\B161210558\B161210558\bin\Debug\B161210558.pdb
+C:\Users\DEll\Downloads\Desktop\ehtiram\B161210558\B161210558\obj\Debug\B161210558.csprojAssemblyReference.cache
+C:\Users\DEll\Downloads\Desktop\ehtiram\B161210558\B161210558\obj\Debug\B161210558.Properties.Resources.resources
+C:\Users\DEll\Downloads\Desktop\ehtiram\B161210558\B161210558\obj\Debug\B161210558.csproj.GenerateResource.cache
+C:\Users\DEll\Downloads\Desktop\ehtiram\B161210558\B161210558\obj\Debug\B161210558.csproj.CoreCompileInputs.cache
+C:\Users\DEll\Downloads\Desktop\ehtiram\B161210558\B161210558\obj\Debug\B161210558.exe
+C:\Users\DEll\Downloads\Desktop\ehtiram\B161210558\B161210558\obj\Debug\B161210558.pdb
+C:\Users\DEll\Downloads\Desktop\ehtiram\B161210558\B161210558\obj\Debug\B161210558.Form1.resources
